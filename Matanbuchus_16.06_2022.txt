@@ -1,0 +1,64 @@
+16.06.2022 | Matanbuchus | 
+
+******************************
+
+.html cc08642ddbbb8f735a3263180164cda6cf3b73a490fc742d5c3e31130504e97c
+.zip 091f3c9f57c69da5402544c5669b2940b6ae2fdf298e24e06a46a8a7887d882b
+.msi 2d8740ea16e9457a358ebea73ad377ff75f7aa9bdf748f0d801f5a261977eda4
+.dll f8cc2cf36e193774f13c9c5f23ab777496dcd7ca588f4f73b45a7a5ffa96145e
+.cs 6d3259011b9f2abd3b0c3dc5b609ac503392a7d8dea018b78ecd39ec097b3968
+
+******************************
+
+Code Signing Certificate
+Organisation:	Westeast Tech Consulting, Corp.
+Issuer:	DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1
+Algorithm:	sha256WithRSAEncryption
+Valid from:	2022-05-18T00:00:00Z
+Valid to:	2023-05-11T23:59:59Z
+Serial number:	 061a27a3a3771bb440fc16cadf2675c4
+Intelligence:	 9 malware samples on MalwareBazaar are signed with this code signing certificate
+Thumbprint Algorithm:	SHA256
+Thumbprint:	 9ed703ba7033af5f88a5f5ef0155adc41715d3175eec836822a09a93d56e4b7f
+
+******************************
+
+Exec >> .zip .html > .zip > .msi > .dll
+
+msiexec.exe /I C:\Users\Admin\AppData\Local\Temp\SCAN-287004.pdf.msi
+
+C:\Windows\system32\msiexec.exe /V
+
+C:\Windows\system32\srtasks.exe ExecuteScopeRestorePoint /WaitForRestorePoint:2
+
+wscript.exe C:\Users\Admin\AppData\Local\AdobeFontPack\notify.vbs
+
+regsvr32.exe -n -i:"Install" C:\Users\Admin\AppData\Local\AdobeFontPack\main.dll
+
+regsvr32.exe -n -i:"Install" C:\Users\Admin\AppData\Local\AdobeFontPack\main.dll
+
+C:\Windows\system32\vssvc.exe
+
+*************************************************
+
+https://tria.ge/220616-wyqstsbaf8
+https://tria.ge/reports/220616-x53awaghap/
+https://isc.sans.edu/diary/28752
+
+*************************************************
+
+c2's
+
+Matanbuchus DLL:
+
+213.226.114[.]15 port 443 (HTTPS) - telemetrysystemcollection[.]com - GET /m8YYdu/mCQ2U9/auth.aspx
+213.226.114[.]15 port 443 (HTTPS) - telemetrysystemcollection[.]com - GET /m8YYdu/mCQ2U9/home.aspx
+213.226.114[.]15 port 48195 (HTTP) - collectiontelemetrysystem[.]com - POST /cAUtfkUDaptk/ZRSeiy/requets/index.php
+144.208.127[.]245 port 80 - 144.208[.]127.245 - GET /cob23_443.txt
+144.208.127[.]245 port 80 - 144.208[.]127.245 - GET /cob_220_443.dll
+
+Cobalt Strike:
+185.217.1[.]23 port 443 - hxxps://extic[.]icu/empower/type.tiff
+185.217.1[.]23 port 443 - hxxps://extic[.]icu/[unknown]
+190.123.44[.]220 port 443 - hxxps://reykh[.]icu/load/hunt.jpgv
+190.123.44[.]220 port 443 - hxxps://reykh[.]icu/thaw.txt
