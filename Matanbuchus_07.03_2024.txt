@@ -22,6 +22,14 @@ rundll32.exe C:\Windows\SysWOW64\shell32.dll,#44 C:\Users\Admin\AppData\Local\Te
 
 *************************************************
 
+Manual exec >>
+
+rundll32.exe C:\Users\Admin\AppData\Local\Temp\50.dll,DllUnregisterServer
+
+msiexec.exe -z "C:\Users\Admin\Favorites\Intel64 Family 6 Model 61 Stepping 2, GenuineIntel\Remove_v5-222-176-1.msp
+
+*************************************************
+
 smb .js
 
 file://5.252.177.213/share/Open_Document.PDF.js
